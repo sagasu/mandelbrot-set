@@ -1,3 +1,3 @@
 # mandelbrot-set
 Experiments with Mandelbrot Set  
-![mandelbrot](https://github.com/sagasu/mandelbrot-set/blob/master/mandelbrot.png?raw=true)
+![mandelbrot](https://raw.githubusercontent.com/sagasu/mandelbrot-set/main/mandelbrot.png)
